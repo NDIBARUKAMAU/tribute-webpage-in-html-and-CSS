@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tribute to Marcus Garvey</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        header {
+            text-align: center;
+            padding: 20px;
+            background-color: #333;
+            color: white;
+        }
+        section {
+            margin-top: 20px;
+            padding: 20px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Tribute to Marcus Garvey</h1>
+    </header>
+    <section>
+        <img src="marcus_garvey_image.jpg" alt="Marcus Garvey">
+        <h2>The Visionary Leader</h2>
+        <p>Marcus Mosiah Garvey, born on August 17, 1887, in St. Ann's Bay, Jamaica, was a visionary leader and a stalwart advocate for the rights and dignity of people of African descent. His enduring impact on the Pan-African movement continues to resonate globally.</p>
+
+        <h2>The Early Years</h2>
+        <p>Garvey's early years were marked by a deep commitment to education and a profound sense of injustice. His experiences fueled his passion for uplifting marginalized communities and advocating for equal rights and opportunities.</p>
+
+        <h2>The Universal Negro Improvement Association (UNIA)</h2>
+        <p>In 1914, Marcus Garvey founded the Universal Negro Improvement Association (UNIA), an organization that would become a powerful force for unity and empowerment within the African diaspora. The UNIA promoted economic independence, self-reliance, and cultural pride.</p>
+
+        <h2>Empowering the Masses</h2>
+        <p>Garvey's speeches, writings, and the publication of the newspaper "Negro World" played a crucial role in empowering the masses. His famous rallying cry, "Up, You Mighty Race! You Can Accomplish What You Will," inspired individuals to recognize their inherent strength and capabilities.</p>
+
+        <h2>Championing Economic Independence</h2>
+        <p>One of Marcus Garvey's key principles was the promotion of economic independence. He envisioned a future where individuals and communities would be economically self-sufficient, free from the shackles of oppression and exploitation.</p>
+
+        <h2>A Legacy of Inspiration</h2>
+        <p>Marcus Garvey's teachings and philosophy continue to inspire generations. His emphasis on self-determination, pride in African heritage, and the pursuit of justice laid the foundation for the civil rights movements of the 20th century and beyond.</p>
+
+        <h2>Reflection and Action</h2>
+        <p>As we reflect on the life and legacy of Marcus Garvey, let us heed the call to action. May we recommit ourselves to the ideals of justice, unity, and the relentless pursuit of a world where every individual experiences dignity, respect, and the opportunity to flourish.</p>
+    </section>
+</body>
+</html>
